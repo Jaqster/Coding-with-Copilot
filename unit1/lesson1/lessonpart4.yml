@@ -85,3 +85,6 @@ content: >
   Try crafting your own prompts with varying levels of scope and clarity.
   Experiment with different approaches and observe how Copilot's responses
   change. This practice will help you refine your prompt engineering skills.
+showEditor: true
+editors:
+  - course1/unit1/lesson1/lessonpart4/Copilot1.py
