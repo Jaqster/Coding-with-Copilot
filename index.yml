@@ -9,6 +9,11 @@ contacts:
   - displayName: Jacqueline Russell
     pictureUrl: https://avatars.githubusercontent.com/u/22108954?v=4
     homePageUrl: https://github.com/Jaqster
+files:
+  - path: course1/unit1/lesson1/lessonpart4/Copilot1.py
+    content: "# Coding Challenge: Create a function using Copilot \r
+
+      # that checks if a given integrer is a prime number.\r\n"
 units:
   - unit1/index.yml
   - unit2/index.yml
