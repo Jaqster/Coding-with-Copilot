@@ -1,0 +1,87 @@
+# yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
+id: lessonpart4
+title: Scope and Clarity
+content: >
+  ## Understanding the Scope and Clarity of Prompts
+
+
+  When working with Copilot, the effectiveness of the generated code largely
+  depends on the scope and clarity of your prompts. Let's explore how to craft
+  prompts with varying levels of scope and clarity.
+
+
+  ### Broad Scope Prompts
+
+
+  A broad scope prompt provides a general idea of what you want to achieve but
+  lacks specific details. This can lead to a wide range of possible outputs.
+
+
+  **Example:**
+
+  - "Create a Python function."
+
+
+  This prompt is very open-ended, and Copilot might generate any function, from
+  a simple print statement to a complex algorithm.
+
+
+  ### Narrow Scope Prompts
+
+
+  A narrow scope prompt includes more specific details, guiding Copilot to
+  generate a more precise output.
+
+
+  **Example:**
+
+  - "Create a Python function that calculates the factorial of a number using
+  recursion."
+
+
+  This prompt specifies the task (calculating factorial), the method
+  (recursion), and the language (Python), leading to a more targeted response.
+
+
+  ### Clarity in Prompts
+
+
+  Clarity involves using precise language and providing enough context for
+  Copilot to understand your intent.
+
+
+  **Example of a Clear Prompt:**
+
+  - "Write a Python function named `factorial` that takes an integer `n` and
+  returns the factorial of `n` using a recursive approach."
+
+
+  This prompt is clear and detailed, specifying the function name, parameter,
+  and method, which helps Copilot generate accurate code.
+
+
+  ### Combining Scope and Clarity
+
+
+  For optimal results, combine a well-defined scope with clear language. This
+  ensures that Copilot understands both the task and the context, leading to
+  high-quality code generation.
+
+
+  **Example:**
+
+  - "Develop a Python function called `is_prime` that checks if a given integer
+  is a prime number. The function should return `True` if the number is prime
+  and `False` otherwise."
+
+
+  By specifying the function's purpose, name, input, and expected output, this
+  prompt provides both scope and clarity, guiding Copilot effectively.
+
+
+  ### Practice Exercise
+
+
+  Try crafting your own prompts with varying levels of scope and clarity.
+  Experiment with different approaches and observe how Copilot's responses
+  change. This practice will help you refine your prompt engineering skills.

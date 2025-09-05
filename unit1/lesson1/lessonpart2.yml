@@ -1,0 +1,58 @@
+# yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
+id: lessonpart2
+title: Writing your first Prompts
+content: >
+  ## Challenge: Writing Effective Copilot Prompts
+
+
+  In this activity, you'll practice writing prompts to generate useful code
+  snippets with Copilot. Remember, the key to a good prompt is clarity and
+  specificity. Try the following challenges:
+
+
+  ### Challenge 1: Basic Function
+
+  Write a prompt to generate a Python function that calculates the factorial of
+  a number. Consider what details you need to include to get the desired output.
+
+
+  ### Challenge 2: Data Structure Manipulation
+
+  Create a prompt to generate a Python function that takes a list of integers
+  and returns a new list with only the even numbers. Think about how to specify
+  the input and output clearly.
+
+
+  ### Challenge 3: String Processing
+
+  Write a prompt for a function that counts the number of vowels in a given
+  string. How can you ensure Copilot understands the task?
+
+
+  ### Challenge 4: Error Handling
+
+  Design a prompt for a function that divides two numbers and handles division
+  by zero gracefully. What information should you provide to guide Copilot?
+
+
+  ### Challenge 5: API Interaction
+
+  Formulate a prompt to generate code that fetches data from a public API and
+  prints the result. Consider what details about the API and the data you need
+  to include.
+
+
+  ### Reflection
+
+  After completing the challenges, reflect on the following questions:
+
+  - What strategies helped you write effective prompts?
+
+  - How did the specificity of your prompt affect the quality of the generated
+  code?
+
+  - What improvements can you make to your prompts based on the results?
+
+
+  Use these challenges to refine your skills in prompt engineering and explore
+  the capabilities of Copilot in generating code snippets.

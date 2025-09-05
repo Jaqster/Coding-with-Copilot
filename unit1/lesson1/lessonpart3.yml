@@ -1,0 +1,76 @@
+# yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
+id: lessonpart3
+title: Context matters
+content: >
+  ### Understanding Context in Copilot Prompting
+
+
+  When using Copilot, context refers to the surrounding information or code that
+  helps the AI understand what you are trying to achieve with your prompt.
+  Context is crucial because it guides Copilot in generating more accurate and
+  relevant code suggestions.
+
+
+  #### Why Context is Important
+
+
+  1. **Improves Accuracy**: Providing context helps Copilot understand the
+  specific task or problem you are addressing, leading to more precise code
+  suggestions.
+
+  2. **Enhances Relevance**: Context allows Copilot to tailor its responses to
+  fit the current state of your project, ensuring that the suggestions are
+  applicable and useful.
+
+  3. **Reduces Ambiguity**: By giving Copilot a clear picture of what you are
+  working on, you minimize the chances of receiving irrelevant or incorrect code
+  snippets.
+
+
+  #### Examples of Prompt Responses
+
+
+  **Without Context:**
+
+
+  Prompt: "Create a function"
+
+
+  Response: 
+
+  ```python
+
+  def function():
+      pass
+  ```
+
+  *Explanation*: Without context, Copilot provides a generic function template,
+  as it lacks information about the function's purpose or parameters.
+
+
+  **With Context:**
+
+
+  Context: You are working on a Python project that processes user data and you
+  need a function to calculate the average age of users.
+
+
+  Prompt: "Create a function to calculate the average age of users"
+
+
+  Response:
+
+  ```python
+
+  def calculate_average_age(users):
+      total_age = sum(user['age'] for user in users)
+      return total_age / len(users)
+  ```
+
+  *Explanation*: With context, Copilot understands the specific task and
+  generates a function that calculates the average age, using a list of user
+  data.
+
+
+  By providing context, you enable Copilot to assist you more effectively,
+  making your coding process smoother and more efficient.

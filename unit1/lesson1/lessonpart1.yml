@@ -1,0 +1,71 @@
+# yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
+id: lessonpart1
+title: What are "Prompts"?
+content: >
+  **Introduction to Prompt Engineering**
+
+
+  Prompt engineering is a crucial skill for software developers working with AI
+  models like Copilot. It involves crafting effective prompts to guide AI in
+  generating useful and accurate code suggestions. Understanding how to
+  communicate with AI models can significantly enhance productivity and
+  creativity in software development.
+
+
+  **Why Prompt Engineering Matters**
+
+
+  1. **Precision and Clarity**: Well-crafted prompts lead to precise code
+  suggestions, reducing the need for extensive edits.
+
+  2. **Efficiency**: Effective prompts can streamline the coding process,
+  allowing developers to focus on higher-level problem-solving.
+
+  3. **Creativity**: By experimenting with different prompts, developers can
+  explore innovative solutions and approaches to coding challenges.
+
+
+  **Basic Principles of Prompt Engineering**
+
+
+  - **Be Specific**: Clearly define the task or problem you want the AI to
+  address. Specific prompts yield more relevant results.
+
+  - **Use Context**: Provide context to help the AI understand the broader scope
+  of the task. This can include details about the project or specific
+  requirements.
+
+  - **Iterate and Refine**: Experiment with different phrasing and structures to
+  find the most effective prompts. Iteration is key to mastering prompt
+  engineering.
+
+
+  **Example of Prompt Engineering**
+
+
+  Consider a scenario where you need to generate a function to sort a list of
+  numbers. A basic prompt might be:
+
+
+  "Write a Python function to sort a list of numbers in ascending order."
+
+
+  To refine this, you could add more context:
+
+
+  "Write a Python function named `sort_numbers` that takes a list of integers as
+  input and returns a new list with the integers sorted in ascending order.
+  Ensure the function handles empty lists and lists with duplicate values."
+
+
+  By providing detailed instructions, you guide the AI to produce more accurate
+  and useful code.
+
+
+  **Conclusion**
+
+
+  Prompt engineering is an essential skill for leveraging AI tools like Copilot
+  effectively. By mastering this skill, developers can enhance their coding
+  efficiency and creativity, making AI-assisted development a powerful asset in
+  their toolkit.
